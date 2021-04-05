@@ -1,7 +1,5 @@
 ## Code Book (Getting and Cleaning Data Project)
 
-Author: kartyt
-
 ### Description
 This is a code book containing additional information about the data and transformations used in the final project for Getting and Cleaning Data course.
 
