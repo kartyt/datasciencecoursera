@@ -31,7 +31,7 @@ These signals were used to estimate variables of the feature vector for each pat
 The set of variables that were estimated from these signals are Mean (Mean value) and Std(Standard deviation)
 
 
-## The script [run_analysis.R](https://github.com/kartyt/datasciencecoursera/Final_Project_Getting_and_Cleaning_Data/run_analysis.R)
+## The script [run_analysis.R](https://github.com/kartyt/datasciencecoursera/blob/master/Final_Project_Getting_and_Cleaning_Data/run_analysis.R)
 1. Merge the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
