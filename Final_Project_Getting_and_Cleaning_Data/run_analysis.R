@@ -53,4 +53,4 @@ tidy_data <- data %>% group_by(across(all_of(group_cols)))%>%summarize(across(1:
 rm(group_cols,col_indexes)
 
 # Saves tidy_data to the file
-write.csv(tidy_data, "tidy_data.csv", row.names=FALSE)
+write.table(tidy_data, "tidy_data.txt", row.names=FALSE)
