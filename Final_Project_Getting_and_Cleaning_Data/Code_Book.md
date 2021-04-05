@@ -29,11 +29,3 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 These signals were used to estimate variables of the feature vector for each pattern:  '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 
 The set of variables that were estimated from these signals are Mean (Mean value) and Std(Standard deviation)
-
-
-## The script [run_analysis.R](https://github.com/kartyt/datasciencecoursera/blob/master/Final_Project_Getting_and_Cleaning_Data/run_analysis.R)
-1. Merge the training and the test sets to create one data set.
-2. Extracts only the measurements on the mean and standard deviation for each measurement.
-3. Uses descriptive activity names to name the activities in the data set
-4. Appropriately labels the data set with descriptive variable names.
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
